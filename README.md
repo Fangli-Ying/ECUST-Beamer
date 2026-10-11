@@ -4,6 +4,8 @@
 
 ECUST Beamer 模板
 
+华东理工大学（East China University of Science and Technology）Latex Beamer 模板
+
 具体参考请见代码内注释
 
 在线使用
