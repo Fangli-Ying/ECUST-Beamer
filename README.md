@@ -1,4 +1,4 @@
-#ECUST-Beamer
+# ECUST-Beamer
 
 [](https://github.com/Fangli-Ying/ECUST-Beamer)
 
